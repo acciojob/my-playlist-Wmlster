@@ -44,6 +44,7 @@ h2{
 
 .player_one{
 	width:100%;
+	background-color: rgb(255, 255, 255);
 	box-sizing:border-box;
 	padding:10px;
 }
