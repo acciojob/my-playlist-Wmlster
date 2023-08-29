@@ -35,7 +35,7 @@ h2{
 }
 
 .videop{
-	width:100vw;
+	width:100%;
 	margin:50px;
 	margin-top:0px;
 	background-color: rgb(255, 255, 255);
@@ -44,8 +44,8 @@ h2{
 }
 
 .player_one{
-	width:50vw;
-	heigth:50vh;
+	width:100%;
+	box-sizing:border-box;
 	padding:10px;
 }
 
@@ -58,6 +58,5 @@ h3{
 }
 .player_two{
 	box-sizing:border-box;
-	margin-left:15px;
-	width:97%;
+	paddingt:10px;
 }
